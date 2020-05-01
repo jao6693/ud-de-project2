@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files generated during notebook processing
+event_datafile_new.csv
